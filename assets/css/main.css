@@ -104,7 +104,6 @@ button {
 }
 .single_navItem_link {
   font-family: "Inter";
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   color: var(--color1);
@@ -115,7 +114,6 @@ button {
 }
 .navbar_contact_btn {
   font-family: "Inter";
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   color: var(--color1);
@@ -146,7 +144,6 @@ button {
   width: 48%;
   margin: 0 auto;
   font-family: "Inter";
-  font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 28px;
@@ -192,7 +189,6 @@ button {
   width: 80%;
   margin: auto 0;
   font-family: "Inter";
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
