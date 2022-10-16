@@ -153,6 +153,13 @@ button {
 .hero_img_wrapper {
   align-items: center;
 }
+.hero_visit_btn_wrapper{
+  text-align: center;
+}
+.hero_visit_portfolio_btn{
+  background-color: transparent;
+  border: none;
+}
 .hero_view_portfolio {
   width: 174px;
   height: 161px;
